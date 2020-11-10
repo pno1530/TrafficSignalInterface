@@ -1,0 +1,4 @@
+N false true
+S false false
+W false true
+E true false
